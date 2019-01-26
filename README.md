@@ -1,10 +1,10 @@
 # jour2106
 
-try~try~try~
+trytrytry
 
 ## Head 1
 * okay
-* right
+* okie
 
 ## Head 2
 
