@@ -1,11 +1,9 @@
-# jour2106
+# About me:
+Hi everyone! 
+My name is Fang Yi CHEN, I'm currently the exchange student here at HKBU.
+I'm from Taiwan and study Radio and Television Broadcasting.
 
-trytrytry
 
-## Head 1
-* okay
-* okie
-
-## Head 2
-
-![](https://s3-media2.fl.yelpcdn.com/bphoto/7BlRoSOG3AsAWHMPOaG7ng/ls.jpg)
+## Skills:
+* Video Editing
+* Graphic Design(Basic)
